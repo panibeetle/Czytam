@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Coin counter top right -->
+    <LinearLayout
+        android:id="@+id/coinCounter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/coin_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:text=""
+            android:textColor="@android:color/black"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/iconCoins"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@drawable/coin" />
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/buttonSpeakWord"
+        style="@style/PrimaryButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="16dp"
+        android:gravity="center"
+        android:text="🔊"
+        app:layout_constraintBottom_toTopOf="@+id/syllableContainer"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/coinCounter" />
+
+    <!-- Syllables to drag -->
+
+
+
+    <com.google.android.flexbox.FlexboxLayout
+        android:id="@+id/syllableContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipToPadding="false"
+        android:fillViewport="true"
+        android:orientation="horizontal"
+        android:overScrollMode="always"
+        android:padding="40dp"
+        android:layout_margin="1dp"
+        android:scrollbars="vertical"
+        app:layout_constraintTop_toBottomOf="@+id/buttonSpeakWord"
+        app:alignItems="flex_start"
+        app:flexWrap="wrap"
+        app:justifyContent="flex_start"
+        app:layout_constraintBottom_toTopOf="@+id/targetContainer" />
+
+
+        <!-- Target area -->
+    <com.google.android.flexbox.FlexboxLayout
+        android:id="@+id/targetContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/contener5"
+        android:clipToPadding="false"
+        android:fillViewport="true"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@+id/syllableContainer"
+        android:overScrollMode="always"
+        android:padding="20dp"
+        android:scrollbars="vertical"
+        android:layout_margin="16dp"
+        app:alignItems="flex_start"
+        app:flexWrap="wrap"
+        app:justifyContent="flex_start"
+        app:layout_constraintBottom_toTopOf="@+id/buttonCheck"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/buttonCheck"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        style="@style/PrimaryButton"
+        android:text="✅ Sprawdź"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

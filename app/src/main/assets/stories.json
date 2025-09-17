@@ -1,0 +1,618 @@
+[
+  {
+    "id": 1,
+    "title": "Spotkanie w ogrodzie",
+    "cover": "ogrod_cover",
+    "sentences": [
+      {
+        "text": "Nikodem zobaczył starszą panią w ogrodzie.",
+        "image": "ogrod4",
+        "keywords": ["Nikodem", "starszą", "ogrodzie"],
+        "syllables": [["Ni", "ko", "dem"], ["star", "szą"], ["o", "gro", "dzie"]]
+      },
+      {
+        "text": "„Dzień dobry! Mogę pomóc?” zapytał.",
+        "image": "ogrod4",
+        "keywords": ["pomóc"],
+        "syllables": [["po", "móc"]]
+      },
+      {
+        "text": "Starsza pani uśmiechnęła się i pokazała kwiaty do podlewania.",
+        "image": "ogrod4",
+        "keywords": ["uśmiechnęła", "pokazała", "podlewania"],
+        "syllables": [["uś", "miech", "nę", "ła"], ["po", "ka", "za", "ła"], ["pod", "le", "wa", "nia"]]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Pomoc przy liściach",
+    "cover": "ogrod_cover2",
+    "sentences": [
+      {
+        "text": "Nikodem nalał wodę do konewki.",
+        "image": "ogrod4",
+        "keywords": ["konewki"],
+        "syllables": [["ko", "new", "ki"]]
+      },
+      {
+        "text": "Maja i Kacper pomogli zbierać liście.",
+        "image": "ogrod4",
+        "keywords": ["pomogli", "zbierać", "liście"],
+        "syllables": [["po", "mo", "gli"], ["zbie", "rać"], ["li", "ście"]]
+      },
+      {
+        "text": "Antek podnosił ciężkie doniczki.",
+        "image": "ogrod4",
+        "keywords": ["podnosił", "ciężkie", "doniczki"],
+        "syllables": [["pod", "no", "sił"], ["cięż", "kie"], ["do", "nicz", "ki"]]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Przycinanie krzaków",
+    "cover": "ogrod_cover3",
+    "sentences": [
+      {
+        "text": "Starsza pani mówiła, które kwiaty trzeba przyciąć.",
+        "image": "ogrod4",
+        "keywords": ["mówiła", "kwiaty", "przyciąć"],
+        "syllables": [["mó", "wi", "ła"], ["kwia", "ty"], ["przy", "ciąć"]]
+      },
+      {
+        "text": "Nikodem ciął krzaki małymi nożyczkami.",
+        "image": "ogrod4",
+        "keywords": ["ciął", "krzaki", "nożyczkami"],
+        "syllables": [["ciął"], ["krza", "ki"], ["no", "życz", "ka", "mi"]]
+      },
+      {
+        "text": "Kacper przytrzymywał rośliny.",
+        "image": "ogrod4",
+        "keywords": ["przytrzymywał", "rośliny"],
+        "syllables": [["przy", "trzy", "my", "wał"], ["ro", "śli", "ny"]]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Zamiatanie liści",
+    "cover": "ogrod_cover4",
+    "sentences": [
+      {
+        "text": "Maja zamiatała liście na stos.",
+        "image": "ogrod4",
+        "keywords": ["zamiatała", "liście"],
+        "syllables": [["za", "mia", "ta", "ła"], ["li", "ście"]]
+      },
+      {
+        "text": "Antek podlewał rośliny w doniczkach.",
+        "image": "ogrod4",
+        "keywords": ["podlewał", "rośliny", "doniczkach"],
+        "syllables": [["pod", "le", "wał"], ["ro", "śli", "ny"], ["do", "nicz", "kach"]]
+      },
+      {
+        "text": "Pani podała dzieciom ciasteczka i sok.",
+        "image": "ogrod4",
+        "keywords": ["podała", "dzieciom", "ciasteczka"],
+        "syllables": [["po", "da", "ła"], ["dzie", "ciom"], ["cia", "ste", "czka"]]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Miłe zakończenie",
+    "cover": "ogrod_cover5",
+    "sentences": [
+      {
+        "text": "„Dziękuję wam bardzo!”  powiedziała pani.",
+        "image": "ogrod4",
+        "keywords": ["powiedziała"],
+        "syllables": [["po", "wie", "dzia", "ła"]]
+      },
+      {
+        "text": "Dzieci poczuły się szczęśliwe.",
+        "image": "ogrod4",
+        "keywords": ["szczęśliwe"],
+        "syllables": [["szczę", "śli", "we"]]
+      },
+      {
+        "text": "Nikodem pomyślał: „Pomaganie jest super!”",
+        "image": "ogrod4",
+        "keywords": ["Pomaganie", "super"],
+        "syllables": [["po", "ma", "ga", "nie"], ["su", "per"]]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Przybycie do Antka",
+    "cover": "urodziny_cover1",
+    "sentences": [
+      {
+        "text": "Nikodem wziął prezent i poszedł do Antka.",
+        "image": "urodziny2",
+        "keywords": ["Nikodem", "prezent", "poszedł", "Antek"],
+        "syllables": [["Ni", "ko", "dem"], ["pre", "zent"], ["po", "szedł"], ["An", "tek"]]
+      },
+      {
+        "text": " „Cześć! Sto lat!”  krzyknął, podając prezent.",
+        "image": "urodziny2",
+        "keywords": ["krzyknął", "podając", "prezent"],
+        "syllables": [["krzyk", "nął"], ["po", "da", "jąc"], ["pre", "zent"]]
+      },
+      {
+        "text": "Było dużo balonów i kolorowych serpentyn.",
+        "image": "urodziny2",
+        "keywords": ["balonów", "kolorowych", "serpentyn"],
+        "syllables": [["ba", "lo", "nów"], ["ko", "lo", "ro", "wych"], ["ser", "pen", "tyn"]]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Zabawy dzieci",
+    "cover": "urodziny_cover2",
+    "sentences": [
+      {
+        "text": "Maja i Kacper bawili się w berka.",
+        "image": "urodziny2",
+        "keywords": ["bawili"],
+        "syllables": [["ba", "wi", "li"]]
+      },
+      {
+        "text": "Antek pokazał nową grę planszową.",
+        "image": "urodziny2",
+        "keywords": ["pokazał", "planszową"],
+        "syllables": [["po", "ka", "zał"], ["plan", "szo", "wą"]]
+      },
+      {
+        "text": "Dzieci siedziały przy stole i jadły ciasto.",
+        "image": "urodziny2",
+        "keywords": ["siedziały", "ciasto"],
+        "syllables": [["sie", "dzia", "ły"], ["cia", "sto"]]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Smak tortu",
+    "cover": "urodziny_cover3",
+    "sentences": [
+      {
+        "text": "Nikodem zrobił kawałek tortu dla siebie.",
+        "image": "urodziny2",
+        "keywords": ["zrobił", "kawałek", "tortu"],
+        "syllables": [["zro", "bił"], ["ka", "wa", "łek"], ["tor", "tu"]]
+      },
+      {
+        "text": "Maja i Kacper pili sok z kubków.",
+        "image": "urodziny2",
+        "keywords": ["pili", "kubków"],
+        "syllables": [["pi", "li"], ["kub", "ków"]]
+      },
+      {
+        "text": "Dzieci śmiały się i opowiadały żarty.",
+        "image": "urodziny2",
+        "keywords": ["opowiadały", "żarty"],
+        "syllables": [["o", "po", "wia", "da", "ły"], ["żar", "ty"]]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Gra i radość",
+    "cover": "urodziny_cover4",
+    "sentences": [
+      {
+        "text": "Antek rozdawał cukierki wszystkim.",
+        "image": "urodziny2",
+        "keywords": ["rozdawał", "cukierki", "wszystkim"],
+        "syllables": [["roz", "da", "wał"], ["cu", "kie", "rki"], ["wszy", "stkim"]]
+      },
+      {
+        "text": "„Zagrajmy w grę!” zaproponował Nikodem.",
+        "image": "urodziny2",
+        "keywords": ["zagrajmy", "zaproponował", "Nikodem"],
+        "syllables": [["za", "graj", "my"], ["za", "pro", "po", "no", "wał"], ["Ni", "ko", "dem"]]
+      },
+      {
+        "text": "Grali razem, rzucając kostką i przesuwając pionki.",
+        "image": "urodziny2",
+        "keywords": ["razem", "rzucając", "przesuwając", "pionki"],
+        "syllables": [["ra", "zem"], ["rzu", "ca", "jąc"], ["prze", "su", "wa", "jąc"], ["pio", "nki"]]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Śmiech i pożegnanie",
+    "cover": "urodziny_cover5",
+    "sentences": [
+      {
+        "text": "Śmiech i radość było wszędzie.",
+        "image": "urodziny2",
+        "keywords": ["radość", "wszędzie"],
+        "syllables": [["ra", "dość"], ["wszę", "dzie"]]
+      },
+      {
+        "text": "Na koniec Antek podziękował dzieciom za przybycie.",
+        "image": "urodziny2",
+        "keywords": ["podziękował", "dzieciom", "przybycie"],
+        "syllables": [["po", "dzię", "ko", "wał"], ["dzie", "ciom"], ["przy", "by", "cie"]]
+      },
+      {
+        "text": "– „To były najlepsze urodziny!” – powiedział Nikodem.",
+        "image": "urodziny2",
+        "keywords": ["najlepsze", "urodziny", "powiedział", "Nikodem"],
+        "syllables": [["naj", "lep", "sze"], ["u", "ro", "dzi", "ny"], ["po", "wie", "dział"], ["Ni", "ko", "dem"]]
+      }
+    ]
+  },
+
+  {
+    "id": 11,
+    "title": "Bieg nad jeziorem",
+    "cover": "jezioro_cover1",
+    "sentences": [
+      {
+        "text": "Słońce świeciło mocno nad jeziorem.",
+        "image": "jezioro",
+        "keywords": ["słońce", "mocno", "jeziorem"],
+        "syllables": [["słoń", "ce"], ["moc", "no"], ["je", "zio", "rem"]]
+      },
+      {
+        "text": "Nikodem, Maja, Kacper i Antek pobiegli do wody.",
+        "image": "jezioro",
+        "keywords": ["Nikodem", "pobiegli"],
+        "syllables": [["Ni", "ko", "dem"], ["po", "bie", "gli"]]
+      },
+      {
+        "text": "– „Chodźcie, będzie fajnie!” – krzyknął Nikodem.",
+        "image": "jezioro",
+        "keywords": ["krzyknął", "Nikodem"],
+        "syllables": [["krzyk", "nął"], ["Ni", "ko", "dem"]]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Rodzinna kąpiel",
+    "cover": "jezioro_cover2",
+    "sentences": [
+      {
+        "text": "Rodzice weszli do wody razem z nimi.",
+        "image": "jezioro",
+        "keywords": ["Rodzice", "razem"],
+        "syllables": [["Rod", "zi", "ce"], ["ra", "zem"]]
+      },
+      {
+        "text": "Kacper chlapał wodę dookoła.",
+        "image": "jezioro",
+        "keywords": ["chlapał", "dookoła"],
+        "syllables": [["chla", "pał"], ["doo", "ko", "ła"]]
+      },
+      {
+        "text": "Maja robiła fale rękami.",
+        "image": "jezioro",
+        "keywords": ["robiła", "rękami"],
+        "syllables": [["ro", "bi", "ła"], ["rę", "ka", "mi"]]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Zabawa w wodzie",
+    "cover": "jezioro_cover3",
+    "sentences": [
+      {
+        "text": "Antek zanurzył się i wynurzył z wodą na włosach.",
+        "image": "jezioro",
+        "keywords": ["zanurzył", "wynurzył", "wodą"],
+        "syllables": [["za", "nurzył"], ["wy", "nurzył"], ["wo", "dą"]]
+      },
+      {
+        "text": "Nikodem nauczył wszystkich robić małe skoki do wody.",
+        "image": "jezioro",
+        "keywords": ["nauczył", "wszystkich", "robić"],
+        "syllables": [["na", "u", "czył"], ["wszys", "tkich"], ["ro", "bić"]]
+      },
+      {
+        "text": "– „Hop!” – krzyknęła Maja.",
+        "image": "jezioro",
+        "keywords": ["krzyknęła"],
+        "syllables": [["krzyk", "nę", "ła"]]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Radość w wodzie",
+    "cover": "jezioro_cover4",
+    "sentences": [
+      {
+        "text": "Woda była chłodna, ale przyjemna.",
+        "image": "jezioro",
+        "keywords": ["chłodna", "przyjemna"],
+        "syllables": [["chło", "dna"], ["przy", "jem", "na"]]
+      },
+      {
+        "text": "Rodzice śmiali się razem z dziećmi.",
+        "image": "jezioro",
+        "keywords": ["Rodzice", "razem", "dziećmi"],
+        "syllables": [["Rod", "zi", "ce"], ["ra", "zem"], ["dzieć", "mi"]]
+      },
+      {
+        "text": "Nikodem pluskał wodą do Kacpra i Antka.",
+        "image": "jezioro",
+        "keywords": ["pluskał", "wodą"],
+        "syllables": [["plus", "kał"], ["wo", "dą"]]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Na brzegu",
+    "cover": "jezioro_cover5",
+    "sentences": [
+      {
+        "text": "Na brzegu leżały ręczniki i kolorowe piłki.",
+        "image": "jezioro",
+        "keywords": ["ręczniki", "kolorowe", "piłki"],
+        "syllables": [["rę", "czni", "ki"], ["ko", "lo", "ro", "we"], ["pił", "ki"]]
+      },
+      {
+        "text": "Po kąpieli dzieci wycierały się i jadły lody.",
+        "image": "jezioro",
+        "keywords": ["kąpieli", "wycierały"],
+        "syllables": [["ką", "pie", "li"], ["wy", "cie", "rały"]]
+      },
+      {
+        "text": "– „To była najlepsza zabawa!” – powiedział Nikodem.",
+        "image": "jezioro",
+        "keywords": ["najlepsza", "zabawa", "powiedział", "Nikodem"],
+        "syllables": [["naj", "lep", "sza"], ["za", "ba", "wa"], ["po", "wie", "dział"], ["Ni", "ko", "dem"]]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Stolik z lemoniadą",
+    "cover": "lemoniada_cover1",
+    "sentences": [
+      {
+        "text": "Nikodem i Antek postawili stolik na podwórku.",
+        "image": "lemoniada1",
+        "keywords": ["Nikodem", "postawili", "podwórku"],
+        "syllables": [["Ni", "ko", "dem"], ["po", "sta", "wi", "li"], ["pod", "wór", "ku"]]
+      },
+      {
+        "text": "– „Lemoniada! Świeża i słodka!” – krzyczeli razem.",
+        "image": "lemoniada1",
+        "keywords": ["Lemoniada", "świeża", "krzyczeli", "razem"],
+        "syllables": [["Le", "mo", "nia", "da"], ["świe", "ża"], ["krzy", "cze", "li"], ["ra", "zem"]]
+      },
+      {
+        "text": "Maja i Kacper pomagali nalewać napój do kubków.",
+        "image": "lemoniada1",
+        "keywords": ["pomagali", "nalewać", "napój", "kubków"],
+        "syllables": [["po", "ma", "ga", "li"], ["na", "le", "wać"], ["na", "pój"], ["kub", "ków"]]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Pierwszy klient",
+    "cover": "lemoniada_cover2",
+    "sentences": [
+      {
+        "text": "Słońce świeciło mocno, a ludzie przechodzili obok.",
+        "image": "lemoniada1",
+        "keywords": ["świeciło", "ludzie", "przechodzili"],
+        "syllables": [["świe", "ci", "ło"], ["lu", "dzie"], ["prze", "cho", "dzi", "li"]]
+      },
+      {
+        "text": "Pierwszy klient kupił dwa kubki.",
+        "image": "lemoniada1",
+        "keywords": ["Pierwszy", "klient", "kubki"],
+        "syllables": [["Pier", "wszy"], ["klient"], ["kub", "ki"]]
+      },
+      {
+        "text": "– „Dziękujemy!” – powiedział Nikodem.",
+        "image": "lemoniada1",
+        "keywords": ["powiedział", "Nikodem"],
+        "syllables": [["po", "wie", "dział"], ["Ni", "ko", "dem"]]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Liczenie pieniędzy",
+    "cover": "lemoniada_cover3",
+    "sentences": [
+      {
+        "text": "Dzieci liczyły monety i się uśmiechały.",
+        "image": "lemoniada1",
+        "keywords": ["liczyły", "monety", "uśmiechały"],
+        "syllables": [["li", "czy", "ły"], ["mo", "ne", "ty"], ["u", "śmie", "cha", "ły"]]
+      },
+      {
+        "text": "Antek mieszał lemoniadę w dużym dzbanku.",
+        "image": "lemoniada1",
+        "keywords": ["mieszał", "lemoniadę", "dzbanku"],
+        "syllables": [["mie", "szał"], ["Le", "mo", "nia", "dę"], ["dzban", "ku"]]
+      },
+      {
+        "text": "Maja podawała słomki i serwetki.",
+        "image": "lemoniada1",
+        "keywords": ["podawała", "serwetki"],
+        "syllables": [["po", "da", "wa", "ła"], ["ser", "wet", "ki"]]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Sprzedaż i zabawa",
+    "cover": "lemoniada_cover4",
+    "sentences": [
+      {
+        "text": "Kacper niósł kubki do stolika.",
+        "image": "lemoniada1",
+        "keywords": ["niosł", "kubki", "stolika"],
+        "syllables": [["niosł"], ["kub", "ki"], ["sto", "li", "ka"]]
+      },
+      {
+        "text": "Chłopcy sprzedali prawie wszystkie kubki.",
+        "image": "lemoniada1",
+        "keywords": ["sprzedali", "wszystkie", "kubki"],
+        "syllables": [["sprze", "da", "li"], ["wszy", "stkie"], ["kub", "ki"]]
+      },
+      {
+        "text": "– „Zarobiliśmy pieniądze na naszą przygodę!” – powiedział Nikodem.",
+        "image": "lemoniada1",
+        "keywords": ["zarobiliśmy", "pieniądze", "przygodę", "Nikodem"],
+        "syllables": [["za", "ro", "bi", "li", "śmy"], ["pie", "nią", "dze"], ["przy", "go", "dę"], ["Ni", "ko", "dem"]]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Radość do końca",
+    "cover": "lemoniada_cover5",
+    "sentences": [
+      {
+        "text": "Dzieci popijały lemoniadę razem z klientami.",
+        "image": "lemoniada1",
+        "keywords": ["popijały", "lemoniadę", "klientami"],
+        "syllables": [["po", "pi", "ja", "ły"], ["le", "mo", "nia", "dę"], ["klien", "ta", "mi"]]
+      },
+      {
+        "text": "Śmiech i radość panowały do końca dnia.",
+        "image": "lemoniada1",
+        "keywords": ["panowały", "końca"],
+        "syllables": [["pa", "no", "wa", "ły"], ["koń", "ca"]]
+      },
+      {
+        "text": "– „To była świetna zabawa!” – stwierdził Antek.",
+        "image": "lemoniada1",
+        "keywords": ["świetna", "zabawa", "stwierdził", "Antek"],
+        "syllables": [["świe", "tna"], ["za", "ba", "wa"], ["stwie", "rdził"], ["Antek"]]
+      }
+    ]
+  },
+
+  {
+    "id": 21,
+    "title": "Pomoc w remoncie",
+    "cover": "remont_cover",
+    "sentences": [
+      {
+        "text": "Nikodem zobaczył, że rodzice malują pokój.",
+        "image": "remont1",
+        "keywords": ["Nikodem", "rodzice", "malują", "pokój"],
+        "syllables": [["Ni", "ko", "dem"], ["rod", "zi", "ce"], ["ma", "lu", "ją"], ["po", "kój"]]
+      },
+
+      {
+        "text": "Maja podawała pędzle i wiadra z farbą.",
+        "image": "remont1",
+        "keywords": ["podawała", "pędzle", "wiadra", "farbą"],
+        "syllables": [["po", "da", "wa", "ła"], ["pęd", "zle"], ["wia", "dra"], ["far", "bą"]]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Praca zespołowa",
+    "cover": "remont_cover",
+    "sentences": [
+      {
+        "text": "Kacper przykrywał meble folią.",
+        "image": "remont1",
+        "keywords": ["przykrywał", "meble", "folią"],
+        "syllables": [["przy", "kry", "wał"], ["me", "ble"], ["fo", "lią"]]
+      },
+      {
+        "text": "Antek trzymał drabinę, gdy trzeba było pomalować wysoko.",
+        "image": "remont1",
+        "keywords": ["trzymał", "drabinę", "pomalować", "wysoko"],
+        "syllables": [["trzy", "mał"], ["dra", "bi", "nę"], ["po", "ma", "lo", "wać"], ["wy", "so", "ko"]]
+      },
+      {
+        "text": "Nikodem malował ścianę na żółto.",
+        "image": "remont1",
+        "keywords": ["Nikodem", "malował", "ścianę", "żółto"],
+        "syllables": [["Ni", "ko", "dem"], ["ma", "lo", "wał"], ["ścia", "nę"], ["żół", "to"]]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Małe wpadki",
+    "cover": "remont_cover",
+    "sentences": [
+      {
+        "text": "– „Uważaj na sufit!” – krzyknął tata.",
+        "image": "remont1",
+        "keywords": ["uważaj", "sufit", "krzyknął"],
+        "syllables": [["u", "waż", "aj"], ["su", "fit"], ["krzyk", "nął"]]
+      },
+      {
+        "text": "Maja nakładała taśmę przy listwach.",
+        "image": "remont1",
+        "keywords": ["nakładała", "taśmę", "listwach"],
+        "syllables": [["na", "kła", "da", "ła"], ["taś", "mę"], ["list", "wach"]]
+      },
+      {
+        "text": "Kacper mieszał farbę w wiadrze.",
+        "image": "remont1",
+        "keywords": ["mieszał", "farbę", "wiadrze"],
+        "syllables": [["mie", "szał"], ["far", "bę"], ["wia", "drze"]]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Efekt końcowy",
+    "cover": "remont_cover",
+    "sentences": [
+      {
+        "text": "Po kilku godzinach pokój wyglądał pięknie.",
+        "image": "remont1",
+        "keywords": ["godzinach", "pokój", "wyglądał", "pięknie"],
+        "syllables": [["go", "dzi", "nach"], ["po", "kój"], ["wy", "glą", "dał"], ["pięk", "nie"]]
+      },
+      {
+        "text": "Rodzice podziękowali dzieciom za pomoc.",
+        "image": "remont1",
+        "keywords": ["Rodzice", "podziękowali", "dzieciom", "pomoc"],
+        "syllables": [["Rod", "zi", "ce"], ["po", "dzię", "ko", "wa", "li"], ["dzie", "ciom"], ["po", "moc"]]
+      },
+      {
+        "text": "– „Jesteście najlepsi!” – powiedziała mama.",
+        "image": "remont1",
+        "keywords": ["Jesteście", "najlepsi", "powiedziała"],
+        "syllables": [["Jes", "te", "ście"], ["naj", "lep", "si"], ["po", "wie", "dzia", "ła"]]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Duma i zabawa",
+    "cover": "remont_cover",
+    "sentences": [
+      {
+        "text": "Nikodem i przyjaciele uśmiechali się dumnie.",
+        "image": "remont1",
+        "keywords": ["Nikodem", "przyjaciele", "uśmiechali", "dumnie"],
+        "syllables": [["Ni", "ko", "dem"], ["przy", "ja", "cie", "le"], ["uś", "mie", "cha", "li"], ["dum", "nie"]]
+      },
+      {
+        "text": "„Remont to super przygoda!” stwierdził Nikodem.",
+        "image": "remont1",
+        "keywords": ["Remont", "przygoda", "stwierdził", "Nikodem"],
+        "syllables": [["Re", "mont"], ["przy", "go", "da"], ["stwie", "rdził"], ["Ni", "ko", "dem"]]
+      }
+    ]
+  }
+]

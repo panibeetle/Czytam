@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_gravity="right"
+    android:background="@drawable/contaner">
+
+    <!-- Close button -->
+    <TextView
+        android:id="@+id/btnClose"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="X"
+        android:textSize="20sp"
+        android:layout_gravity="end"
+        android:padding="8dp" />
+
+    <!-- Coin balance -->
+    <LinearLayout
+        android:id="@+id/coinCounter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="right"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/tvCoinBalance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:layout_marginStart="4dp"/>
+
+        <ImageView
+            android:id="@+id/iconCoins"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@drawable/coin" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvZlotyValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="8dp"/>
+
+    <!-- Top buttons -->
+    <Button
+        android:id="@+id/btnConvert"
+        style="@style/PrimaryButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Przeliczyć w złoty" />
+
+    <Button
+        android:id="@+id/btnParents"
+        style="@style/PrimaryButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ustawienia dla rodziców"
+        android:layout_marginTop="8dp" />
+
+    <!-- Bottom buttons (hidden initially) -->
+    <Button
+        android:id="@+id/btnSettings"
+        style="@style/SecondaryButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ustaw nagrody (K)"
+        android:layout_marginTop="16dp"
+        android:visibility="gone"
+        />
+
+    <Button
+        android:id="@+id/btnClear"
+        style="@style/SecondaryButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wyczyścić rachunek"
+        android:layout_marginTop="8dp"
+        android:visibility="gone" />
+
+</LinearLayout>
+

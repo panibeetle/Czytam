@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Outer glow with more intensity -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#FFFFD180"
+                android:endColor="#00FF9800"
+                android:angle="45"/>
+            <corners android:radius="16dp"/>
+        </shape>
+    </item>
+
+    <!-- Second glow layer for extra shine -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#80FFD180"
+                android:endColor="#00FFB74D"
+                android:angle="135"/>
+            <corners android:radius="16dp"/>
+        </shape>
+    </item>
+
+    <!-- Main card background with stroke -->
+    <item android:top="2dp" android:bottom="2dp" android:left="2dp" android:right="2dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/container_orange"/>
+            <stroke
+                android:width="3dp"
+                android:color="@color/primary_orange"/>
+            <corners android:radius="14dp"/>
+        </shape>
+    </item>
+
+    <!-- Subtle inner shine -->
+    <item android:top="1dp" android:bottom="1dp" android:left="1dp" android:right="1dp">
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#80FFCC80"
+                android:endColor="#00FFFFFF"
+                android:angle="270"/>
+            <corners android:radius="14dp"/>
+        </shape>
+    </item>
+
+    <!-- Diagonal shimmer overlay -->
+    <item android:top="0dp" android:bottom="0dp" android:left="0dp" android:right="0dp">
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#40FFFFFF"
+                android:centerColor="#00FFFFFF"
+                android:endColor="#40FFFFFF"
+                android:angle="45"/>
+            <corners android:radius="16dp"/>
+        </shape>
+    </item>
+
+</layer-list>

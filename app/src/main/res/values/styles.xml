@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="PrimaryButton">
+
+        <item name="android:background">@drawable/button_primary</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:padding">12dp</item>
+
+    </style>
+
+    <style name="SecondaryButton">
+        <!-- Set background drawable for secondary button -->
+        <item name="android:background">@drawable/button_light_blue_ripple</item>
+        <item name="backgroundTint">@null</item>
+        <!-- Text color -->
+        <item name="android:textColor">@color/blue</item>
+
+        <!-- Text size -->
+        <item name="android:textSize">16sp</item>
+
+        <!-- Padding -->
+        <item name="android:padding">12dp</item>
+    </style>
+
+    <style name="CardText">
+        <item name="android:background">@drawable/item_card_bg</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:padding">12dp</item>
+    </style>
+    <style name="AlertDialog">
+        <item name="android:background">@drawable/item_card_bg</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:padding">12dp</item>
+        <item name="color">@color/container_orange</item>
+    </style>
+</resources>

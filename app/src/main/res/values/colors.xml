@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_light">#FFF8E1</color>
+    <color name="primary_orange">#FF9800</color>
+    <color name="coin_gold">#FFD700</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_border">#DDDDDD</color>
+    <color name="correct_green">#A5D6A7</color>
+    <color name="wrong_red">#EF9A9A</color>
+    <color name="container_orange">#FFE0B2</color>
+    <color name="blue">#053E57</color>
+    <color name="container_color1">#FFE0B2</color>
+    <color name="container_color2">#C8E6C9</color>
+    <color name="container_color3">#BBDEFB</color>
+    <color name="container_color4">#FFCDD2</color>
+    <color name="container_color5">#D1C4E9</color>
+
+
+
+</resources>
