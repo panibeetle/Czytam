@@ -16,7 +16,7 @@ import android.widget.Toast
 import androidx.fragment.app.Fragment
 import com.example.czytam.models.Story
 import com.google.android.flexbox.FlexboxLayout
-import java.util.Locale
+
 
 class GameStoryOrderFragment(
     private val story: Story

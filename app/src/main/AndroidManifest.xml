@@ -14,22 +14,15 @@
         <activity
             android:name=".CoinManagerActivity"
             android:exported="false" />
-        <activity
-            android:name=".RewardActivity"
-            android:exported="false"
-            android:theme="@style/Theme.Czytam" />
+
         <activity
             android:name=".GameActivity"
             android:exported="false" />
-        <activity
-            android:name=".GamesActivity"
-            android:exported="false" />
+
         <activity
             android:name=".StoryPageActivity"
             android:exported="false" />
-        <activity
-            android:name=".BadgeAdapter"
-            android:exported="false" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
